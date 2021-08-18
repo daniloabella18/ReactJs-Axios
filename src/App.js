@@ -47,7 +47,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1> CRUD App with MERN</h1>
+      <h1> CRUD App para probar peticiones HTTP * - *</h1>
 
       <label> Food Name: </label>
       <input type='text' onChange={(event) => {
